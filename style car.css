@@ -16,6 +16,7 @@ section{
     color: rgb(9, 9, 10);
     width: 400px;
     height: 350px;
+    
     border: solid 4px burlywood;
     border-radius: 30px;
     margin: 200px auto 0 auto;
